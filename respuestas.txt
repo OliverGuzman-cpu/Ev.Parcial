@@ -1,0 +1,21 @@
+▪¿Qué es GIT?
+Git es un sistema de control de versiones distribuido que permite a los desarrolladores colaborar en proyectos de software de manera efectiva y organizada. Permite a los desarrolladores mantener un historial de los cambios realizados en el código fuente y colaborar en el mismo proyecto sin sobrescribir accidentalmente el trabajo de los demás. 
+
+▪¿Qué es un pull request?
+Un pull request (también conocido como solicitud de extracción) en Git es una función que permite a los desarrolladores colaborar en un proyecto al proponer cambios en una rama y solicitar que el propietario o mantenedor del proyecto los revise y los fusione en la rama principal.
+
+▪¿Qué es un commit?
+En Git, un "commit" se refiere a la acción de guardar cambios en el repositorio. Un "commit" es como un punto de control en la historia del repositorio que captura el estado actual de los archivos en ese momento.
+
+▪¿GIT y GitHub es lo mismo? Explique
+No, Git y GitHub no son lo mismo, aunque están estrechamente relacionados.
+Git es un sistema de control de versiones distribuido que permite a los desarrolladores colaborar en proyectos de software y mantener un historial de los cambios realizados en el código fuente.
+GitHub, por otro lado, es una plataforma en línea que aloja repositorios Git en la nube. GitHub proporciona una interfaz web para administrar repositorios Git, así como herramientas adicionales para la colaboración en proyectos de software, como seguimiento de errores, solicitudes de extracción, integración continua, entre otros.
+En resumen, Git es un sistema de control de versiones y GitHub es una plataforma en línea que aloja repositorios.
+
+▪¿Qué es scrum?
+Scrum es un marco de trabajo ágil utilizado en la gestión de proyectos de software. Fue creado originalmente para la gestión de proyectos de software, pero se ha extendido a otros campos como la educación, la investigación y la innovación.
+
+▪¿Para qué sirve una metodología ágil de desarrollo?
+Una metodología ágil de desarrollo es un enfoque iterativo e incremental para la gestión de proyectos que se centra en la colaboración, la adaptabilidad y la entrega continua de valor. Las metodologías ágiles, como Scrum, Kanban y XP, se utilizan ampliamente en el desarrollo de software, aunque también se aplican en otros campos como el diseño, la gestión de proyectos, la educación y la investigación.
+▪Cree un pull request de respuestas a Main (acepte el pull request)
